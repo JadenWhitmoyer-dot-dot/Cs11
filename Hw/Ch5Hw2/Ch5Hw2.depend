@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1774934527 source:/home/jaden/Documents/CS11/Hw/Ch5Hw2/main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	<iomanip>
+	<cmath>
+

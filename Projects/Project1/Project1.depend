@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1773887802 source:/home/jaden/Documents/CS11/Projects/Project1/main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	<iomanip>
+	<cmath>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1771910339 source:/home/jaden/Documents/CS11 Labs/Cs11Ch3Hw1/main.cpp
+	<iostream>
+	<iomanip>
+

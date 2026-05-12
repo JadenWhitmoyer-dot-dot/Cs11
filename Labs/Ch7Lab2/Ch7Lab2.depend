@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1776961071 source:/home/jaden/Documents/CS11/Labs/Ch7Lab2/main.cpp
+	<iostream>
+	<iomanip>
+	<string>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1778604371 source:/home/jaden/Documents/CS11/Labs/Ch8Lab5/main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<ctime>
+	<iomanip>
+
